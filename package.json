@@ -1,21 +1,41 @@
 {
+<<<<<<< HEAD
   "name": "getintodevops-hellonode",
+=======
+  "name": "releaseworks-hellonode",
+>>>>>>> f51b0516afa750b4dea3fb27f7a6dd73e870179c
   "version": "1.0.0",
   "description": "A Hello World HTTP server",
   "main": "main.js",
   "scripts": {
+<<<<<<< HEAD
     "test": "echo \"Error: no test specified\" && exit 1",
+=======
+    "test": "node test.js",
+>>>>>>> f51b0516afa750b4dea3fb27f7a6dd73e870179c
     "start": "node main.js"
   },
   "repository": {
     "type": "git",
+<<<<<<< HEAD
     "url": "https://github.com/Janani-Priya250694/hellonode/"
+=======
+    "url": "https://github.com/releaseworks/hellonode/"
+>>>>>>> f51b0516afa750b4dea3fb27f7a6dd73e870179c
   },
   "keywords": [
     "node",
     "docker",
     "dockerfile"
   ],
+<<<<<<< HEAD
   "author": "miiro@getintodevops.com",
   "license": "ISC"
 }
+=======
+  "author": "academy@release.works",
+  "license": "ISC",
+  "devDependencies": { "test": ">=0.6.0" }
+}
+
+>>>>>>> f51b0516afa750b4dea3fb27f7a6dd73e870179c
